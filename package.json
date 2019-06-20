@@ -1,0 +1,44 @@
+{
+	"name": "bootstrap-starter-template",
+	"version": "1.0.0",
+	"description": "Bootstrap starter template",
+	"main": "Gruntfile.js",
+	"scripts": {
+		"test": "grunt"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/besnikhysaj/starter-html5-bootstrap-template.git"
+	},
+	"keywords": [
+		"starter",
+		"html5",
+		"bootstrap",
+		"template"
+	],
+	"author": "Besnik Hysaj",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/besnikhysaj/starter-html5-bootstrap-template/issues"
+	},
+	"homepage": "https://github.com/besnikhysaj/starter-html5-bootstrap-template#readme",
+	"dependencies": {
+		"bootstrap": "^4.3.1",
+		"isotope-layout": "^3.0.6",
+		"isotope-packery": "^2.0.1",
+		"jquery": "^3.3.1",
+		"jquery-circle-progress": "^1.2.2",
+		"masonry-layout": "^4.2.2",
+		"popper.js": "^1.14.7",
+		"swiper": "^4.5.0"
+	},
+	"devDependencies": {
+		"grunt": "^1.0.4",
+		"grunt-contrib-connect": "^2.0.0",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-contrib-watch": "^1.1.0",
+		"grunt-sass": "^3.0.2",
+		"load-grunt-tasks": "^4.0.0",
+		"node-sass": "^4.11.0"
+	}
+}
