@@ -30,7 +30,7 @@
 		"jquery-circle-progress": "^1.2.2",
 		"masonry-layout": "^4.2.2",
 		"popper.js": "^1.14.7",
-		"swiper": "^4.5.0"
+		"swiper": "^6.5.1"
 	},
 	"devDependencies": {
 		"grunt": "^1.0.4",
